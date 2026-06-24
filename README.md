@@ -1,4 +1,10 @@
 # PCOS Metabolic Syndrome Prediction
+<img width="1920" height="1020" alt="Get_Started_page" src="https://github.com/user-attachments/assets/91ab8448-a67a-4a77-aa2d-e2e9b2d102e5" />
+<img width="1920" height="1020" alt="Screening_Type" src="https://github.com/user-attachments/assets/9da9ba6d-b3be-4bc7-82c0-ec74c7752af7" />
+<img width="1920" height="1020" alt="Screening_Type" src="https://github.com/user-attachments/assets/a0928e51-d531-4ad8-8564-1072c73eed89" />
+<img width="1920" height="1020" alt="Medical_Precautions" src="https://github.com/user-attachments/assets/20cc7996-58be-4a08-8c25-1616c6b6d686" />
+<img width="1920" height="1020" alt="Report_Summary" src="https://github.com/user-attachments/assets/0b971bfe-cbab-4ac3-baa0-be61ece0616e" />
+<img width="1920" height="1020" alt="Report_PDF" src="https://github.com/user-attachments/assets/883ec5d4-8902-41d1-9a11-45913a3ff22b" />
 
 ## Overview
 
